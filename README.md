@@ -8,15 +8,18 @@ You can click the Preview link to take a look at your changes.
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Deisy Páez</h1></summary>
+    <p align="center">
+    <a href="deca2917@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	  <a href="https://www.linkedin.com/in/deisy-carolina-p%C3%A1ez-casas-76182760/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </p>
   </ul>
 </div>
 
-
 <!--About Me-->
 
-## <picture><img src = "https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif?raw=true" width = 30px></picture> About me
+##  About me
 
-<picture> <img align="right" src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif" width = 300px></picture>
+<picture> <img align="right" src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif" width = 200px></picture>
 
 
 - ⚡Ingeniera electrónica  
@@ -24,11 +27,11 @@ You can click the Preview link to take a look at your changes.
 - :nerd_face: Investigadora 
 - 📊Analista de Datos
 - 🚀Mentora STEAM 🩷
-- ⚙️ Power BI  | Python ⚙️
+
 
 <br>
 
-## 🛠️ My Skills
+##  My Skills
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
